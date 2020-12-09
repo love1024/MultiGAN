@@ -3,6 +3,7 @@
 2. cmd python multigan_train.py
 3. After training, pretrained folder will contain distributions
 4. GPU is required for training
+5. Using existing library of InGAN named as InGAN_lib
 
 # Testing
 1. Put your test image in test_image folder
