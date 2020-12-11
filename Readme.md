@@ -1,4 +1,4 @@
-# MultiGAN: Retarging using multiple images
+# MultiGAN: Image Retargeting using Multiple Images
 
 Based on InGAN(https://arxiv.org/abs/1812.00231)
 
